@@ -1,0 +1,11 @@
+p{
+    color: azure;
+}
+
+#heading{
+    background-color: blueviolet;
+}
+
+.heading:hover{
+    font-size: 34px;
+}
